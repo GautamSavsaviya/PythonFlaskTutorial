@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_host": "true",
+    "local_uri": "mysql+mysqldb://root:@localhost/codeblogger",
+    "production_uri": "mysql+mysqldb://root:@localhost/codeblogger",
+    "website_name": "CodeBlogger",
+    "title_tag_line": "A Blog Liked by Programmers",
+    "twitter_url": "https://twitter.com/codeblogger",
+    "facebook_url": "https://facebook.com/codeblogger",
+    "github_url": "https://github.com/codeblogger",
+    "gmail_user": "gautamsavasaviya222@gmail.com",
+    "gmail_password": "Gau@#sav1702"
+  }
+}
